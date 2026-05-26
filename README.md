@@ -17,6 +17,7 @@ Personal Finance Tracker is a Python application that helps you monitor income, 
 6.Local Storage*: All data stays on your machine in CSV or SQLite - no cloud, no tracking
 
 #NEW FEATURE
+
 1.The Financial Habit Streak Tracker is a smart personal finance management project developed using Python. 
 
 2.This application helps users build strong financial habits through a gamified experience inspired by language-learning apps like Duolingo.
